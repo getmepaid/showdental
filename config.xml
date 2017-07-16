@@ -21,7 +21,13 @@
   <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
   <gap:plugin name="cordova-plugin-network-information" source="npm"/>
   <gap:plugin name="cordova-plugin-splashscreen" source="npm"/>
-  <icon src="icon.png"/>
+  <icon src="res/icon/android/512x512 pixel.png"/>
+  <icon src="res/icon/android/36px (ldpi).png" platform="android" qualifier="ldpi" />
+  <icon src="res/icon/android/48px (mdpi).png" platform="android" qualifier="mdpi" />
+  <icon src="res/icon/android/72px (hdpi).png" platform="android" qualifier="hdpi" />
+  <icon src="res/icon/android/96px (xhdpi).png" platform="android" qualifier="xhdpi" />
+  <icon src="res/icon/android/144px (xxhdpi).png" platform="android" qualifier="xxhdpi" />
+  <icon src="res/icon/android/192px (xxxhdpi).png" platform="android" qualifier="fr-xxhdpi" />
   <gap:splash src="splash.png"/>
   <preference name="SplashScreen" value="screen" />
   <preference name="SplashScreenDelay" value="40000" />
