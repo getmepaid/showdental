@@ -27,7 +27,7 @@
   <icon src="www/res/icon/android/72px (hdpi).png" platform="android" qualifier="hdpi" />
   <icon src="www/res/icon/android/96px (xhdpi).png" platform="android" qualifier="xhdpi" />
   <icon src="www/res/icon/android/144px (xxhdpi).png" platform="android" qualifier="xxhdpi" />
-  <icon src="www/res/icon/android/192px (xxxhdpi).png" platform="android" qualifier="fr-xxhdpi" />
+  <icon src="www/res/icon/android/192px (xxxhdpi).png" platform="android" qualifier="xxxhdpi" />
   <gap:splash src="splash.png"/>
   <gap:splash src="www/res/screen/android/320x200 Land.png" platform="android" qualifier="ldpi" />
   <gap:splash src="www/res/screen/android/200x320 port.png" platform="android" qualifier="port-ldpi" />
@@ -39,8 +39,8 @@
   <gap:splash src="www/res/screen/android/720x1280 port.png" platform="android" qualifier="land-xhdpi" />
   <gap:splash src="www/res/screen/android/1600x960 Land.png" platform="android" qualifier="xxhdpi" />
   <gap:splash src="www/res/screen/android/960x1600 port.png" platform="android" qualifier="land-xxhdpi" />
-  <gap:splash src="www/res/screen/android/1920X1280 Land.png" platform="android" qualifier="fr-xhdpi" />
-  <gap:splash src="www/res/screen/android/1280X1920 port.png" platform="android" qualifier="land-fr-xhdpi" />
+  <gap:splash src="www/res/screen/android/1920X1280 Land.png" platform="android" qualifier="xxxhdpi" />
+  <gap:splash src="www/res/screen/android/1280X1920 port.png" platform="android" qualifier="land-xxxhdpi" />
   <preference name="SplashScreen" value="screen" />
   <preference name="SplashScreenDelay" value="40000" />
   <access origin="*"/>
